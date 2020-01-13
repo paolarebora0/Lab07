@@ -13,7 +13,7 @@ public class TestConnection {
 			
 			PowerOutageDAO dao = new PowerOutageDAO() ;
 			
-			System.out.println(dao.getNercList()) ;
+//			System.out.println(dao.getNercList()) ;
 
 		} catch (Exception e) {
 			System.err.println("Test FAILED");
